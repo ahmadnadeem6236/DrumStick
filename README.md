@@ -1,2 +1,2 @@
-# DrumStick
-Simple drum Stick game
+# DrumStrick
+ DrumStick Game
